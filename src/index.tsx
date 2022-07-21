@@ -19,3 +19,5 @@ root.render(
 reportWebVitals();
 
 //git remote add origin https://github.com/voldo5/test-gh-page.git
+//npm run deploy -- -m "Deploy React app to GitHub Pages"
+
